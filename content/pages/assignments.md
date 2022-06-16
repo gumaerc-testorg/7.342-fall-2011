@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section provides information on the written assignment and the oral
+  presentation assignment of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 2e8c03ec-cabe-f297-688d-408ae710ce1b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Written Assignment (Due Week #7 or Week #9, Student's Choice)
