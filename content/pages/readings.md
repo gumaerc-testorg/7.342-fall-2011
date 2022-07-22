@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section provides the list of readings for each week of the course,
+  and includes links to lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b7cc5225-96b8-bb67-252f-d5048c2b43f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -27,7 +36,7 @@ READINGS
 {{< tdopen >}}
 Introduction and course overview
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#overview)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#overview" %}}
 
 
 {{< tdclose >}}
@@ -43,7 +52,7 @@ No Readings
 {{< tdopen >}}
 Introduction to calorie restriction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#calorie_restriction)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#calorie_restriction" %}}
 
 
 {{< tdclose >}}
@@ -65,14 +74,14 @@ Colman, R. J., R. M. Anderson, et al. "[Caloric Restriction Delays Disease Onset
 {{< tdopen >}}
 Cellular senescence and telomerase
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Cellular_senescence)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Cellular_senescence" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Allsopp, R. C., H. Vaziri, et al. "Telomere Length Predicts Replicative Capacity of Human Fibroblasts." _Proc Natl Acad Sci_ 89 (1992): 10114-18. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4MB](http://www.pnas.org/content/89/21/10114.full.pdf))
+Allsopp, R. C., H. Vaziri, et al. "Telomere Length Predicts Replicative Capacity of Human Fibroblasts." _Proc Natl Acad Sci_ 89 (1992): 10114-18. ([PDF - 1.4MB](http://www.pnas.org/content/89/21/10114.full.pdf))
 
 Rudolph, K. L., S. Chang, et al. "[Longevity, Stress Response, and Cancer in Aging Telomerase-deficient Mice](http://www.cell.com/abstract/S0092-8674%2800%2980580-2)." _Cell_ 96 (1999): 701-12.
 
@@ -87,14 +96,14 @@ Rudolph, K. L., S. Chang, et al. "[Longevity, Stress Response, and Cancer in Agi
 {{< tdopen >}}
 Premature aging syndromes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Premature_aging)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Premature_aging" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Varga, R., M. Eriksson, et al. "Progressive Vascular Smooth Muscle Cell Defects in a Mouse Model of Hutchinson-Gilford Progeria Syndrome." _Proc Natl Acad Sci_ 103 (2006): 3250-5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.7MB](http://www.pnas.org/content/103/9/3250.full.pdf))
+Varga, R., M. Eriksson, et al. "Progressive Vascular Smooth Muscle Cell Defects in a Mouse Model of Hutchinson-Gilford Progeria Syndrome." _Proc Natl Acad Sci_ 103 (2006): 3250-5. ([PDF - 2.7MB](http://www.pnas.org/content/103/9/3250.full.pdf))
 
 Kujoth, G. C., A. Hiona, et al. "[Mitochondrial DNA Mutations, Oxidative Stress, and Apoptosis in Mammalian Aging](http://www.sciencemag.org/content/309/5733/481.abstract)." _Science_ 309 (2005): 481-4.
 
@@ -109,7 +118,7 @@ Kujoth, G. C., A. Hiona, et al. "[Mitochondrial DNA Mutations, Oxidative Stress,
 {{< tdopen >}}
 Lifespan extension in model organisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lifespan)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Lifespan" %}}
 
 
 {{< tdclose >}}
@@ -131,7 +140,7 @@ Ayyadevara, S., C. Tazearslan, et al. "[_Caenorhabditis elegans_ PI3K Mutants Re
 {{< tdopen >}}
 Sirtuins in lifespan extension
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Sirtuins)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Sirtuins" %}}
 
 
 {{< tdclose >}}
@@ -153,7 +162,7 @@ Herranz, D., M. Muñoz-Martin, et al. "[Sirt1 Improves Healthy Ageing and Protec
 {{< tdopen >}}
 Tor in model organisms
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Tor)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Tor" %}}
 
 
 {{< tdclose >}}
@@ -189,14 +198,14 @@ No Readings
 {{< tdopen >}}
 Oxidative stress theory of aging
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Oxidative)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Oxidative" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Pérez, V. I., R. Buffenstein, et al. "Protein Stability and Resistance to Oxidative Stress are Determinants of Longevity in the Longest-living Rodent, the Naked Mole-rat." _Proc Natl Acad Sci_ 106 (2009): 3059-64. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://www.pnas.org/content/early/2009/02/13/0809620106.full.pdf))
+Pérez, V. I., R. Buffenstein, et al. "Protein Stability and Resistance to Oxidative Stress are Determinants of Longevity in the Longest-living Rodent, the Naked Mole-rat." _Proc Natl Acad Sci_ 106 (2009): 3059-64. ([PDF](http://www.pnas.org/content/early/2009/02/13/0809620106.full.pdf))
 
 Schriner, S. E., N. J. Linford, et al. "[Extension of Murine Life Span by Overexpression of Catalase Targeted to Mitochondria](http://www.sciencemag.org/content/308/5730/1909.short)." _Science_ 308 (2005): 1909-11.
 
@@ -211,7 +220,7 @@ Schriner, S. E., N. J. Linford, et al. "[Extension of Murine Life Span by Overex
 {{< tdopen >}}
 Oxidative stress and aging: beneficial effects
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#beneficial_effects )
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#beneficial_effects " %}}
 
 
 {{< tdclose >}}
@@ -233,7 +242,7 @@ Lee, S-J, A. B. Hwang, et al. "[Inhibition of Respiration Extends _C. elegans_ L
 {{< tdopen >}}
 Reversing aging with drugs; activating sirtuins with resveratrol
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Reversing)
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#Reversing" %}}
 
 
 {{< tdclose >}}
@@ -242,7 +251,7 @@ Reversing aging with drugs; activating sirtuins with resveratrol
 
 Baur, J. A., K. J. Pearson, et al. "[Resveratrol Improves Health and Survival of Mice on a High-calorie Diet](http://www.nature.com/nature/journal/v444/n7117/abs/nature05354.html)." _Nature_ 444 (2006): 337-42.
 
-Um, J-H, S-J Park, et al. "AMP-Activated Protein Kinase-Deficient Mice are Resistant to the Metabolic Effects of Resveratrol." _Diabetes_ 59 (2010): 554-63. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](http://diabetes.diabetesjournals.org/content/59/3/554.full.pdf))
+Um, J-H, S-J Park, et al. "AMP-Activated Protein Kinase-Deficient Mice are Resistant to the Metabolic Effects of Resveratrol." _Diabetes_ 59 (2010): 554-63. ([PDF](http://diabetes.diabetesjournals.org/content/59/3/554.full.pdf))
 
 
 {{< tdclose >}}
@@ -269,7 +278,7 @@ No Readings
 {{< tdopen >}}
 Reversing aging with drugs; inhibiting the TOR pathway with rapamycin
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#rapamycin )
+{{% resource_link 43180727-d404-f2d9-f3b9-18de12c92a76 "See the Lecture Summary" "#rapamycin " %}}
 
 
 {{< tdclose >}}
