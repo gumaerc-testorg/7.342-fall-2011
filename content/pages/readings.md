@@ -59,9 +59,9 @@ Introduction to calorie restriction
 {{< tdopen >}}
 
 
-Weindruch, R., R. L. Walford, et al. "[The Retardation of Aging in Mice by Dietary Restriction: Longevity, Cancer, Immunity and Lifetime Energy Intake](http://www.ncbi.nlm.nih.gov/pubmed/3958810)." _Journal of Nutrition_ 116 (1986): 641-54.
+Weindruch, R., R. L. Walford, et al. "{{% resource_link "0e27e053-ba5c-4d57-93ac-0744463cce60" "The Retardation of Aging in Mice by Dietary Restriction: Longevity, Cancer, Immunity and Lifetime Energy Intake" %}}." _Journal of Nutrition_ 116 (1986): 641-54.
 
-Colman, R. J., R. M. Anderson, et al. "[Caloric Restriction Delays Disease Onset and Mortality in Rhesus Monkeys](http://www.sciencemag.org/content/325/5937/201.abstract)." _Science_ 325 (2009): 201-4.
+Colman, R. J., R. M. Anderson, et al. "{{% resource_link "d807daf7-0d46-4a2a-9b78-be36146975fe" "Caloric Restriction Delays Disease Onset and Mortality in Rhesus Monkeys" %}}." _Science_ 325 (2009): 201-4.
 
 
 {{< tdclose >}}
@@ -81,9 +81,9 @@ Cellular senescence and telomerase
 {{< tdopen >}}
 
 
-Allsopp, R. C., H. Vaziri, et al. "Telomere Length Predicts Replicative Capacity of Human Fibroblasts." _Proc Natl Acad Sci_ 89 (1992): 10114-18. ([PDF - 1.4MB](http://www.pnas.org/content/89/21/10114.full.pdf))
+Allsopp, R. C., H. Vaziri, et al. "Telomere Length Predicts Replicative Capacity of Human Fibroblasts." _Proc Natl Acad Sci_ 89 (1992): 10114-18. ({{% resource_link "7478850b-e958-4184-877a-fe3654e51b07" "PDF - 1.4MB" %}})
 
-Rudolph, K. L., S. Chang, et al. "[Longevity, Stress Response, and Cancer in Aging Telomerase-deficient Mice](http://www.cell.com/abstract/S0092-8674%2800%2980580-2)." _Cell_ 96 (1999): 701-12.
+Rudolph, K. L., S. Chang, et al. "{{% resource_link "647515a6-697b-433b-a97c-ef904552a577" "Longevity, Stress Response, and Cancer in Aging Telomerase-deficient Mice" %}}." _Cell_ 96 (1999): 701-12.
 
 
 {{< tdclose >}}
@@ -103,9 +103,9 @@ Premature aging syndromes
 {{< tdopen >}}
 
 
-Varga, R., M. Eriksson, et al. "Progressive Vascular Smooth Muscle Cell Defects in a Mouse Model of Hutchinson-Gilford Progeria Syndrome." _Proc Natl Acad Sci_ 103 (2006): 3250-5. ([PDF - 2.7MB](http://www.pnas.org/content/103/9/3250.full.pdf))
+Varga, R., M. Eriksson, et al. "Progressive Vascular Smooth Muscle Cell Defects in a Mouse Model of Hutchinson-Gilford Progeria Syndrome." _Proc Natl Acad Sci_ 103 (2006): 3250-5. ({{% resource_link "df65ef82-d183-44c1-b075-bfbb9c851427" "PDF - 2.7MB" %}})
 
-Kujoth, G. C., A. Hiona, et al. "[Mitochondrial DNA Mutations, Oxidative Stress, and Apoptosis in Mammalian Aging](http://www.sciencemag.org/content/309/5733/481.abstract)." _Science_ 309 (2005): 481-4.
+Kujoth, G. C., A. Hiona, et al. "{{% resource_link "c66513bf-dd6e-4c18-afc9-452c6016c73a" "Mitochondrial DNA Mutations, Oxidative Stress, and Apoptosis in Mammalian Aging" %}}." _Science_ 309 (2005): 481-4.
 
 
 {{< tdclose >}}
@@ -125,9 +125,9 @@ Lifespan extension in model organisms
 {{< tdopen >}}
 
 
-Kennedy, B. K., N. R. Austriaco Jr., et al. "[Mutation in the Silencing Gene SIR4 Can Delay Aging in _S. cerevisiae_](http://www.cell.com/retrieve/pii/0092867495904999)." _Cell_ 80 (1995): 485-96.
+Kennedy, B. K., N. R. Austriaco Jr., et al. "{{% resource_link "14d2a14e-26b4-4c4b-baf3-e0d70b3bcb3f" "Mutation in the Silencing Gene SIR4 Can Delay Aging in _S. cerevisiae_" %}}." _Cell_ 80 (1995): 485-96.
 
-Ayyadevara, S., C. Tazearslan, et al. "[_Caenorhabditis elegans_ PI3K Mutants Reveal Novel Genes Underlying Exceptional Stress Resistance and Lifespan](http://www.ncbi.nlm.nih.gov/pubmed/19764929)." _Aging Cell_ 8 (2009): 706-25.
+Ayyadevara, S., C. Tazearslan, et al. "{{% resource_link "da230c58-8bbe-4114-8d8c-a48d583f6964" "_Caenorhabditis elegans_ PI3K Mutants Reveal Novel Genes Underlying Exceptional Stress Resistance and Lifespan" %}}." _Aging Cell_ 8 (2009): 706-25.
 
 
 {{< tdclose >}}
@@ -147,9 +147,9 @@ Sirtuins in lifespan extension
 {{< tdopen >}}
 
 
-Kaeberlein, M., McVey M., et al. "[The SIR2/3/4 Complex and SIR2 alone Promote Longevity in _Saccharomyces cerevisiae_ by Two Different Mechanisms](http://www.ncbi.nlm.nih.gov/pubmed/10521401)." _Genes Dev_ 13 (1999): 2570-80.
+Kaeberlein, M., McVey M., et al. "{{% resource_link "103bc2ac-3729-482f-b8e5-7cdf82827f4d" "The SIR2/3/4 Complex and SIR2 alone Promote Longevity in _Saccharomyces cerevisiae_ by Two Different Mechanisms" %}}." _Genes Dev_ 13 (1999): 2570-80.
 
-Herranz, D., M. Muñoz-Martin, et al. "[Sirt1 Improves Healthy Ageing and Protects from Metabolic Syndrome-associated Cancer](http://dx.doi.org/10.1038/ncomms1001)." _Nature Communnication_ 1 (2010): 1-8.
+Herranz, D., M. Muñoz-Martin, et al. "{{% resource_link "4dca20fc-7daf-400a-b062-798ead68b093" "Sirt1 Improves Healthy Ageing and Protects from Metabolic Syndrome-associated Cancer" %}}." _Nature Communnication_ 1 (2010): 1-8.
 
 
 {{< tdclose >}}
@@ -169,9 +169,9 @@ Tor in model organisms
 {{< tdopen >}}
 
 
-Steffen, K. K., V. L. MacKay, et al. "[Yeast Life Span Extension by Depletion of 60s Ribosomal Subunits is Mediated by Gcn4](http://www.cell.com/abstract/S0092-8674%2808%2900288-2)." _Cell_ 133 (2008): 292-302.
+Steffen, K. K., V. L. MacKay, et al. "{{% resource_link "b22bdee9-47e1-493e-8d33-f28ef9b8b4ee" "Yeast Life Span Extension by Depletion of 60s Ribosomal Subunits is Mediated by Gcn4" %}}." _Cell_ 133 (2008): 292-302.
 
-Hansen, M., S. Taubert, et al. ["Lifespan Extension by Conditions that Inhibit Translation in _Caenorhabditis elegans_](http://www.ncbi.nlm.nih.gov/pubmed/17266679)." _Aging Cell_ 6 (2007): 95-110.
+Hansen, M., S. Taubert, et al. {{% resource_link "63b8c701-5fa5-43f8-b6eb-32d5fdd48049" "\"Lifespan Extension by Conditions that Inhibit Translation in _Caenorhabditis elegans_" %}}." _Aging Cell_ 6 (2007): 95-110.
 
 
 {{< tdclose >}}
@@ -205,9 +205,9 @@ Oxidative stress theory of aging
 {{< tdopen >}}
 
 
-Pérez, V. I., R. Buffenstein, et al. "Protein Stability and Resistance to Oxidative Stress are Determinants of Longevity in the Longest-living Rodent, the Naked Mole-rat." _Proc Natl Acad Sci_ 106 (2009): 3059-64. ([PDF](http://www.pnas.org/content/early/2009/02/13/0809620106.full.pdf))
+Pérez, V. I., R. Buffenstein, et al. "Protein Stability and Resistance to Oxidative Stress are Determinants of Longevity in the Longest-living Rodent, the Naked Mole-rat." _Proc Natl Acad Sci_ 106 (2009): 3059-64. ({{% resource_link "5542f767-9166-4cb0-8ecc-6dbb611c32e8" "PDF" %}})
 
-Schriner, S. E., N. J. Linford, et al. "[Extension of Murine Life Span by Overexpression of Catalase Targeted to Mitochondria](http://www.sciencemag.org/content/308/5730/1909.short)." _Science_ 308 (2005): 1909-11.
+Schriner, S. E., N. J. Linford, et al. "{{% resource_link "87ed6251-ff5e-401d-b85f-81877c2c2050" "Extension of Murine Life Span by Overexpression of Catalase Targeted to Mitochondria" %}}." _Science_ 308 (2005): 1909-11.
 
 
 {{< tdclose >}}
@@ -227,9 +227,9 @@ Oxidative stress and aging: beneficial effects
 {{< tdopen >}}
 
 
-Schulz, T. J., K. Zarse, et al. "[Glucose Restriction Extends _C. elegans_ Life Span by Inducing Mitochondrial Respiration and Increasing Oxidative Stress](http://www.ncbi.nlm.nih.gov/pubmed/17908557)." _Cell Metab_ 6 (2007): 280-93.
+Schulz, T. J., K. Zarse, et al. "{{% resource_link "0ace1ce8-31c4-4aea-9c28-7ba2f6c3c657" "Glucose Restriction Extends _C. elegans_ Life Span by Inducing Mitochondrial Respiration and Increasing Oxidative Stress" %}}." _Cell Metab_ 6 (2007): 280-93.
 
-Lee, S-J, A. B. Hwang, et al. "[Inhibition of Respiration Extends _C. elegans_ Life Span via Reactive Oxygen Species that Increase HIF-1 Activity](http://www.cell.com/current-biology/abstract/S0960-9822%2810%2901374-6?switch=standard)." _Current Biology_ 20 (2010): 2131-36.
+Lee, S-J, A. B. Hwang, et al. "{{% resource_link "02ed88f9-1ee1-4bc3-9980-809129dbd5ac" "Inhibition of Respiration Extends _C. elegans_ Life Span via Reactive Oxygen Species that Increase HIF-1 Activity" %}}." _Current Biology_ 20 (2010): 2131-36.
 
 
 {{< tdclose >}}
@@ -249,9 +249,9 @@ Reversing aging with drugs; activating sirtuins with resveratrol
 {{< tdopen >}}
 
 
-Baur, J. A., K. J. Pearson, et al. "[Resveratrol Improves Health and Survival of Mice on a High-calorie Diet](http://www.nature.com/nature/journal/v444/n7117/abs/nature05354.html)." _Nature_ 444 (2006): 337-42.
+Baur, J. A., K. J. Pearson, et al. "{{% resource_link "059b039b-43ef-4ae9-8f32-21f6be0b8f7a" "Resveratrol Improves Health and Survival of Mice on a High-calorie Diet" %}}." _Nature_ 444 (2006): 337-42.
 
-Um, J-H, S-J Park, et al. "AMP-Activated Protein Kinase-Deficient Mice are Resistant to the Metabolic Effects of Resveratrol." _Diabetes_ 59 (2010): 554-63. ([PDF](http://diabetes.diabetesjournals.org/content/59/3/554.full.pdf))
+Um, J-H, S-J Park, et al. "AMP-Activated Protein Kinase-Deficient Mice are Resistant to the Metabolic Effects of Resveratrol." _Diabetes_ 59 (2010): 554-63. ({{% resource_link "99a55a16-2018-4b84-8869-ac40c1973972" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -285,9 +285,9 @@ Reversing aging with drugs; inhibiting the TOR pathway with rapamycin
 {{< tdopen >}}
 
 
-Miller, R. A., D. E. Harrison, et al. "[Rapamycin, but not Resveratrol or Simvastatin, Extends Life Span of Genetically Heterogeneous Mice](http://www.ncbi.nlm.nih.gov/pubmed/20974732)." _J Gerontol A Biol Sci Med Sci_ 66 (2011): 191-201.
+Miller, R. A., D. E. Harrison, et al. "{{% resource_link "ad766b6f-ce45-4bb4-bb53-dbce2fceec9f" "Rapamycin, but not Resveratrol or Simvastatin, Extends Life Span of Genetically Heterogeneous Mice" %}}." _J Gerontol A Biol Sci Med Sci_ 66 (2011): 191-201.
 
-Spilman, P., N. Podlutskaya, et al. "[Inhibition of mTOR by Rapamycin Abolishes Cognitive Deficits and Reduces Amyloid-βeta Levels in a Mouse Model of Alzheimer's Disease](http://www.ncbi.nlm.nih.gov/pubmed/20376313)." _PLoS One_ 5 (2010): e9979.
+Spilman, P., N. Podlutskaya, et al. "{{% resource_link "2c7fd49c-b24e-436b-bd91-efa7a4a5932a" "Inhibition of mTOR by Rapamycin Abolishes Cognitive Deficits and Reduces Amyloid-βeta Levels in a Mouse Model of Alzheimer's Disease" %}}." _PLoS One_ 5 (2010): e9979.
 
 
 {{< tdclose >}}
